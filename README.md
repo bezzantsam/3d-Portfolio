@@ -1,1 +1,1 @@
-# 3d-Portfolio Website. THREEJS, deployed on Netlify.
+My portfolio website built with THREEJS and deployed with Netlify www.sambezzant.dev
